@@ -35,3 +35,6 @@
 ## Controls:
 1. Submit: This button will check for the Username and Password typed by User, and displays the particular warning and messages for the User to go in right path. 
 
+### Snaps
+! []("JavaFx Application/img/pic1.png")
+! [](JavaFx Application/img/pic2.png)
