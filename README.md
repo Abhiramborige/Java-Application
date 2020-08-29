@@ -36,5 +36,5 @@
 1. Submit: This button will check for the Username and Password typed by User, and displays the particular warning and messages for the User to go in right path. 
 
 ### Snaps
-![Pic1](JavaFx Application/img/pic1.png)
-![Pic2](JavaFx Application/img/pic2.png)
+![Pic1](JavaFx-Application/img/pic1.png)
+![Pic2](JavaFx-Application/img/pic2.png)
